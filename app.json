@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e243d9bc-7c57-4db2-8ed1-437971a7eeac"
+      }
+    },
+    "owner": "pedr770"
   }
 }
